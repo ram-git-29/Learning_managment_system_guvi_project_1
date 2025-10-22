@@ -53,7 +53,7 @@ This project is a Learning Management System (LMS) built with React.js for the f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ram-git-29/Learning_managment_system_guvi_project_1
+     https://github.com/ram-git-29/Learning_managment_system_guvi_project_1
     ```
 
 2. Navigate to the frontend and backend folders and follow their respective setup instructions.
